@@ -1,0 +1,7 @@
+use_default_settings: true
+server:
+  secret_key: "555e03db-b5ba-4884-baae-6b98d86314ef"
+search:
+  formats:
+    - html
+    - json # OBRIGATÓRIO para o RestClient do Spring ler as buscas
