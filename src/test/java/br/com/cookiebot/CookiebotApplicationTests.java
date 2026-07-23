@@ -1,10 +1,10 @@
-package br.com.lgabot;
+package br.com.cookiebot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LgabotApplicationTests {
+class CookiebotApplicationTests {
 
 	@Test
 	void contextLoads() {
